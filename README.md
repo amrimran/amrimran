@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, My name is Wan Amir Imran and I am Software Engineer undergraduate student in University of Malaya.<br><br>My expectation of joining software maintenance and evolution is to gain new knowledge regarding software engineering in the aspects of maintaining and evolving software efficiently.
+Hi, My name is Wan Amir Imran and I am Software Engineer graduate student from University of Malaya.<br><br>I am open to work and eager to implement the skills I have learned throughout my study and experiences to contribute to growth of an organization significantly. I welcome professional opportunities and offers. Please contact me via email: [amirimran728@gmail.com]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrimran&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
