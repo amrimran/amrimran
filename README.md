@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, My name is <b>Wan Amir Imran bin Wan Azezi<b> and I am <b>Software Engineering graduate<b> from <b>Universiti Malaya<b>.
+Hi, My name is <b>Wan Amir Imran bin Wan Azezi<b> and I am <b>Software Engineering Graduate (Universiti Malaya)<b>.
 <br><br>I am <b>open to work<b> and eager to implement the skills I have learned throughout my studies and experiences to contribute to growth of an organization significantly. I welcome opportunities and offers. Please contact me via email: [amirimran728@gmail.com]
 
 # 📊 GitHub Stats:
